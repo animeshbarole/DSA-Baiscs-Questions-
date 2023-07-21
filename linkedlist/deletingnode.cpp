@@ -42,7 +42,7 @@ int deleting(int x)
        first = first->next;
        delete p;
    }
-   else
+   else 
    {
       p = first;
       q = NULL;
